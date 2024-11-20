@@ -250,9 +250,6 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 - Recently Viewed Tours
 - And More! There's always room for improvement!
 
-## License 📄
-
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Deployed Version 🚀
 
